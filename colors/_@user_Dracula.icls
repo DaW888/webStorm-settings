@@ -4,7 +4,7 @@
     <property name="created">2019-09-10T18:54:41</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-15T22:33:08</property>
+    <property name="modified">2019-09-15T22:48:17</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2016,6 +2016,11 @@
         <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="4d64eb" />
+      </value>
+    </option>
     <option name="RUBY_CONSTANT">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
@@ -2300,6 +2305,11 @@
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
       <value>
         <option name="FOREGROUND" value="87cefa" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="4b5ee1" />
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
