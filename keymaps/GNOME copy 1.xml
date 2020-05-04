@@ -1,5 +1,11 @@
 <keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
 </keymap>
