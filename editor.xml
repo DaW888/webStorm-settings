@@ -11,5 +11,9 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="important" useCustomColors="true" case-sensitive="true" pattern="\bIMPORTANT\b.*">
+      <option name="FOREGROUND" value="ff4855" />
+      <option name="FONT_TYPE" value="2" />
+    </pattern>
   </component>
 </application>
